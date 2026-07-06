@@ -5,11 +5,11 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 ---
 
 ## 👥 Integrantes del Equipo
-* ✨ **Ayelén Salamanca, Lider**
-* 🧠 **Caleb Zambrano, Tester documentador**
-* 🛠️ **Stiven Rodríguez, Desarrollador**
-* 🎨 **Daniel Rodríguez, Diseñador UX/UI**
-* 📝 **Samuel Bonilla, Analista Requisitos**
+* ✨ **Ayelén Salamanca, Lider.**
+* 🧠 **Caleb Zambrano, Tester documentador.**
+* 🛠️ **Stiven Rodríguez, Desarrollador.**
+* 🎨 **Daniel Rodríguez, Diseñador UX/UI.**
+* 📝 **Samuel Bonilla, Analista Requisitos.**
 
 ## 📂 Estructura del Proyecto
 * `📑 Documentación/` - Contiene los manuales técnicos y fases de análisis.
