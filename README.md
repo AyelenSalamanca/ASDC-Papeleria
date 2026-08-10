@@ -20,4 +20,4 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 * 🌐 HTML & CSS
 * 🐘 PHP
 * 🐬 MySQL
-* 📜 JavaScrip
+* 📜 Visual Studio Code
