@@ -24,3 +24,6 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 * 🐘 PHP
 * 🐬 MySQL
 * 📜 Visual Studio Code
+
+## 🎶📱 Redes Sociales 
+* "https://www.tiktok.com/@asdc19347?_r=1&_t=ZS-9A9CsU5jwQu"
