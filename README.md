@@ -16,7 +16,7 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 
 ## 📂 Estructura del Proyecto
 * `📑 Documentación/` - Contiene los manuales técnicos y fases de análisis.
-* `💻 Src/` - Código fuente del sistema (HTML, CSS, PHP, Python).
+* `💻 Src/` - Código fuente del sistema (HTML, CSS, PHP).
 * `🗃️ Database/` - Scripts de la base de datos MySQL.
 
 ## 🛠️ Tecnologías Utilizadas
