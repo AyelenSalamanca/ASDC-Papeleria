@@ -1,3 +1,6 @@
+
+<img width="1254" height="661" alt="logo_ASDC" src="https://github.com/user-attachments/assets/2c611929-d281-4dc9-8134-089671769983" />
+
 # 🚀 ASDC – La Creatividad Te Guiará A La Victoria
 
 Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está diseñado para (Papeleria virtual al gusto del cliente).
