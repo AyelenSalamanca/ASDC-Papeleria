@@ -28,4 +28,4 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 ## 🎶📱 Redes Sociales 
 * "https://www.tiktok.com/@asdc19347?_r=1&_t=ZS-9A9CsU5jwQu"
 ## Nuestra papeleria
- * "https://asdcpapeleria.netlify.app/"
+ * "[https://asdcpapeleria.netlify.app/](https://asdcpapeleria.netlify.app)"
